@@ -20,7 +20,7 @@ mods.jei.JEI.removeAndHide(<minecraft:diamond_helmet>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_chestplate>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_leggings>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_boots>);
-mods.jei.JEI.removeAndHide(<minecraft:orange_shulker_box>);
+mods.jei.JEI.removeAndHide(<minecraft:white_shulker_box>);
 mods.jei.JEI.removeAndHide(<minecraft:orange_shulker_box>);
 mods.jei.JEI.removeAndHide(<minecraft:magenta_shulker_box>);
 mods.jei.JEI.removeAndHide(<minecraft:light_blue_shulker_box>);
