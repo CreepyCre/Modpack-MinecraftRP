@@ -46,6 +46,7 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:1025>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:1024>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:1027>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:801>);
+furnace.remove(<minecraft:coal:1>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:865>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:866>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:892>);
