@@ -1,0 +1,24 @@
+//Dynamic Trees
+mods.jei.JEI.hide(<dynamictrees:oakbranch>);
+mods.jei.JEI.hide(<dynamictrees:sprucebranch>);
+mods.jei.JEI.hide(<dynamictrees:birchbranch>);
+mods.jei.JEI.hide(<dynamictrees:junglebranch>);
+mods.jei.JEI.hide(<dynamictrees:acaciabranch>);
+mods.jei.JEI.hide(<dynamictrees:darkoakbranch>);
+mods.jei.JEI.hide(<dynamictrees:cactusbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:magicbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:umbranbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:firbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:cherrybranch>);
+mods.jei.JEI.hide(<dynamictreesbop:deadbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:jacarandabranch>);
+mods.jei.JEI.hide(<dynamictreesbop:willowbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:hellbarkbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:pinebranch>);
+mods.jei.JEI.hide(<dynamictreesbop:palmbranch>);
+mods.jei.JEI.hide(<dynamictreesbop:mahoganybranch>);
+mods.jei.JEI.hide(<dynamictreesbop:ebonybranch>);
+mods.jei.JEI.hide(<dynamictreesbop:bamboobranch>);
+mods.jei.JEI.hide(<dynamictreesbop:eucalyptusbranch>);
+mods.jei.JEI.hide(<rustic:olivebranch>);
+mods.jei.JEI.hide(<rustic:ironwoodbranch>);

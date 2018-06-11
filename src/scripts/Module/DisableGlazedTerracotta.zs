@@ -1,0 +1,22 @@
+//
+mods.jei.JEI.removeAndHide(<minecraft:white_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:orange_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:magenta_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:light_blue_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:yellow_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:lime_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:pink_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:gray_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:silver_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:cyan_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:purple_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:blue_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:brown_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:green_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:red_glazed_terracotta>);
+mods.jei.JEI.removeAndHide(<minecraft:black_glazed_terracotta>);
+mods.charcoalpit.flushKilnRecipes();
+mods.charcoalpit.addKilnRecipe(<minecraft:clay>, <minecraft:hardened_clay>);
+mods.charcoalpit.addKilnRecipe(<minecraft:clay_ball>, <minecraft:brick>);
+mods.charcoalpit.addKilnRecipe(<charcoal_pit:clay_pot>, <charcoal_pit:ceramic_pot>);
+mods.charcoalpit.addKilnRecipe(<charcoal_pit:clay_flowerpot>, <minecraft:flower_pot>);
