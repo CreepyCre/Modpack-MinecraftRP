@@ -1,11 +1,13 @@
+import crafttweaker.oredict.IOreDictEntry;
 //Schnecken verlieren selten blauen Farbstoff
-<entity:familiarfauna:familiarfauna.snail>.addDrop(<plants2:generic:2>, 0.02);
+<entity:familiarfauna:familiarfauna.snail>.addDrop(<plants2:generic:2>, 0, 1, 0.02);
 
 
 //Lapis Lazuli als blauen Farbstoff deaktivieren
-import crafttweaker.oredict.IOreDictEntry;
 <ore:dyeBlue>.remove(<minecraft:dye:4>);
 <ore:dye>.remove(<minecraft:dye:4>);
+recipes.remove(<thermalfoundation:rockwool:4>);
+recipes.addShapeless(<thermalfoundation:rockwool:4>, [<ore:blockRockwool>, <ore:dyeBlue>]);
 
 /*
 //Standard Farbtonrezepte entfernen
@@ -34,6 +36,8 @@ recipes.remove(<plants2:generic:4>);
 */
 
 //Blumen Zerstampfen hinzufügen
+//mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], , 8, []);
 
 
 //Farbstoffe Vermischen hinzufügen
+//mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], , 4, []);
