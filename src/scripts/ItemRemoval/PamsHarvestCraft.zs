@@ -15,6 +15,8 @@ mods.jei.JEI.removeAndHide(<harvestcraft:creepercookieitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:theatreboxitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:energydrinkitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:vegemiteitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:pinacoladaitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:bananasplititem>);
 
 
 //Entferne Burger
@@ -101,3 +103,24 @@ mods.jei.JEI.removeAndHide(<harvestcraft:lemonlimesodaitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:orangesodaitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:strawberrysodaitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:grapefruitsodaitem>);
+
+
+//Entferne alles aus Schoki
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatesprinklecakeitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatebaritem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:hotchocolateitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolateicecreamitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatestrawberryitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chilichocolateitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatecherryitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatedonutitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatemilkitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:mintchocolatechipicecreamitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatecaramelfudgeitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:honeycombchocolatebaritem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:cherrycoconutchocolatebaritem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatebaconitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolatemilkshakeitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolaterollitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocovoxelsitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chocolateorangeitem>);
