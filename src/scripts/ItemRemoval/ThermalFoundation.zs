@@ -244,6 +244,14 @@ mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.helmet_electrum>);
 mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.plate_electrum>);
 mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.legs_electrum>);
 mods.foundry.Melting.removeRecipe(<thermalfoundation:armor.boots_electrum>);
+mods.foundry.AlloyMixer.removeRecipe([<liquid:liquidgold>, <liquid:liquidsilver>]);
+mods.foundry.AlloyMixer.removeRecipe([<liquid:liquidgold>, <liquid:silver>]);
+mods.foundry.AlloyMixer.removeRecipe([<liquid:gold>, <liquid:liquidsilver>]);
+mods.foundry.AlloyMixer.removeRecipe([<liquid:gold>, <liquid:silver>]);
+mods.foundry.AlloyCrucible.removeRecipe(<liquid:liquidgold>, <liquid:liquidsilver>);
+mods.foundry.AlloyCrucible.removeRecipe(<liquid:liquidgold>, <liquid:silver>);
+mods.foundry.AlloyCrucible.removeRecipe(<liquid:gold>, <liquid:liquidsilver>);
+mods.foundry.AlloyCrucible.removeRecipe(<liquid:gold>, <liquid:silver>);
 
 
 //Iridium entfernen
