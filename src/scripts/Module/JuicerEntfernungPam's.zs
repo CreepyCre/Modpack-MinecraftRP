@@ -1,3 +1,5 @@
+//Entfernung der Rezepte des Pam's Harvestcraft Juicers
+
 recipes.remove(<harvestcraft:cranberryjuiceitem>);
 recipes.remove(<harvestcraft:apricotjuiceitem>);
 recipes.remove(<harvestcraft:carrotjuiceitem>);
