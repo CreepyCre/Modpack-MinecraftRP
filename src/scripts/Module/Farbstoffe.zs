@@ -73,12 +73,12 @@ mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <min
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <minecraft:dye:2>*1, 8, [<biomesoplenty:plant_1:6>]);
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <minecraft:dye:2>*1, 8, [<harvestcraft:bakedcactusitem>]);
 //Farbe Schwarz
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <biomesoplenty:flower_0:2>);
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <biomesoplenty:flower_0:10>);
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <plants2:blackberry>);
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <harvestcraft:blackberryitem>);
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <plants2:briblebum>);
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, <plants2:rubus_o>);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<biomesoplenty:flower_0:2>]);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<biomesoplenty:flower_0:10>]);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<plants2:blackberry>]);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<harvestcraft:blackberryitem>]);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<plants2:briblebum>]);
+mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:black_dye>*1, 8, [<plants2:rubus_o>]);
 //Farbe Brown
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:brown_dye>*1, 8, [<biomesoplenty:double_plant:1>]);
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <biomesoplenty:brown_dye>*1, 8, [<biomesoplenty:plant_1:4>]);
