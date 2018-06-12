@@ -42,3 +42,7 @@ mods.jei.JEI.removeAndHide(<foundry:component>);
 mods.jei.JEI.removeAndHide(<foundry:component:24>);
 mods.foundry.CastingTable.removeRodRecipe(<liquid:constantan>);
 mods.foundry.CastingTable.removeRodRecipe(<liquid:liquidcupronickel>);
+mods.jei.JEI.removeAndHide(<foundry:cokeoven>);
+mods.jei.JEI.removeAndHide(<foundry:component:21>);
+
+

@@ -1,4 +1,5 @@
 //Thermal Foundation
+mods.jei.JEI.removeAndHide(<thermalfoundation:tome_experience>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:512>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:513>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:514>);
