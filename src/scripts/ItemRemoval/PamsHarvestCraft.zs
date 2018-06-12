@@ -20,6 +20,7 @@ mods.jei.JEI.removeAndHide(<harvestcraft:bananasplititem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:weekendpicnicitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:potatochipsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:bbqpotatochipsitem>);
+//set.garliccoin.value: 3
 mods.jei.JEI.removeAndHide(<harvestcraft:sourcreamandonionpotatochipsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:cheddarandsourcreampotatochipsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chipsanddipitem>);
@@ -139,6 +140,8 @@ mods.jei.JEI.removeAndHide(<harvestcraft:chocolaterollitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocovoxelsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocolateorangeitem>);
 
-//Entferne den GARLIC COIN (TinyBitcoin)
+//Verstecke den GARLIC COIN (TinyBitcoin)
 
-mods.jei.JEI.removeAndHide(<harvestcraft:garliccoinitem>);
+mods.jei.JEI.hide(<harvestcraft:garliccoinitem>);
+recipes.remove(<harvestcraft:garliccoinitem>;
+recipes.addShaped(<harvestcraft:garliccoinitem>, [[<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>],[<minecraft:dirt>, <harvestcraft:garlicitem>, <minecraft:dirt>], [<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>]]);
