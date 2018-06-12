@@ -138,3 +138,7 @@ mods.jei.JEI.removeAndHide(<harvestcraft:chocolatemilkshakeitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocolaterollitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocovoxelsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocolateorangeitem>);
+
+//Entferne den GARLIC COIN (TinyBitcoin)
+
+mods.jei.JEI.removeAndHide(<harvestcraft:garliccoinitem>);
