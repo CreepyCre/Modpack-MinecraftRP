@@ -17,6 +17,21 @@ mods.jei.JEI.removeAndHide(<harvestcraft:energydrinkitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:vegemiteitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:pinacoladaitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:bananasplititem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:weekendpicnicitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:potatochipsitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:bbqpotatochipsitem>);
+//set.garliccoin.value: 3
+mods.jei.JEI.removeAndHide(<harvestcraft:sourcreamandonionpotatochipsitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:cheddarandsourcreampotatochipsitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:chipsanddipitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:cheezepuffsitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:deviledeggitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:gourmetbeefpattyitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:gourmetmuttonpattyitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:gourmetporkpattyitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:gourmetvenisonpattyitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:marzipanitem>);
+mods.jei.JEI.removeAndHide(<harvestcraft:bbqpulledporkitem>);
 
 
 //Entferne Burger
@@ -124,3 +139,9 @@ mods.jei.JEI.removeAndHide(<harvestcraft:chocolatemilkshakeitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocolaterollitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocovoxelsitem>);
 mods.jei.JEI.removeAndHide(<harvestcraft:chocolateorangeitem>);
+
+//Verstecke den GARLIC COIN (TinyBitcoin)
+
+mods.jei.JEI.hide(<harvestcraft:garliccoinitem>);
+recipes.remove(<harvestcraft:garliccoinitem>;
+recipes.addShaped(<harvestcraft:garliccoinitem>, [[<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>],[<minecraft:dirt>, <harvestcraft:garlicitem>, <minecraft:dirt>], [<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>]]);
