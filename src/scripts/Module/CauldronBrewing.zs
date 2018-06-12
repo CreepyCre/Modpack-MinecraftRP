@@ -1,5 +1,11 @@
 //Cauldron Brewing
 mods.jei.JEI.removeAndHide(<minecraft:brewing_stand>);
+mods.orestages.OreStages.addReplacement("entfernt", <minecraft:brewing_stand>, <minecraft:stone_slab>);
+
+
+//Entferne Nachtsichttränke
+mods.inspirations.Cauldron.removeBrewingRecipe("minecraft:night_vision");
+mods.inspirations.Cauldron.removeBrewingRecipe("minecraft:long_night_vision");
 
 
 //Craftingrezepte von Säften entfernen
@@ -188,3 +194,4 @@ mods.jei.JEI.removeAndHide(<minecraft:lingering_potion>.withTag({Potion: "tougha
 mods.jei.JEI.removeAndHide(<minecraft:lingering_potion>.withTag({Potion: "toughasnails:long_cold_resistance_type"}));
 mods.jei.JEI.removeAndHide(<minecraft:lingering_potion>.withTag({Potion: "toughasnails:heat_resistance_type"}));
 mods.jei.JEI.removeAndHide(<minecraft:lingering_potion>.withTag({Potion: "toughasnails:long_heat_resistance_type"}));
+mods.jei.JEI.removeAndHide(<dynamictrees:dendropotion:*>);
