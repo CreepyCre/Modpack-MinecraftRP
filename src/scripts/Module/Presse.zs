@@ -1,7 +1,6 @@
 //Übertrage Pam's Harvest Craft Press Rezepte auf Rustic Crushing Tub
 
 mods.rustic.CrushingTub.addRecipe(<liquid:water>*0, <harvestcraft:blueberryjuiceitem>, <harvestcraft:blueberryitem>);
-mods.rustic.CrushingTub.addRecipe(<liquid:water>*0, <harvestcraft:applejuiceitem>, <minecraft:apple>);
 mods.rustic.CrushingTub.addRecipe(<liquid:water>*0, <harvestcraft:apricotjuiceitem>, <harvestcraft:apricotitem>);
 mods.rustic.CrushingTub.addRecipe(<liquid:water>*0, <harvestcraft:carrotjuiceitem>, <minecraft:carrot>);
 mods.rustic.CrushingTub.addRecipe(<liquid:water>*0, <harvestcraft:cactusfruitjuiceitem>, <harvestcraft:cactusfruititem>);
