@@ -132,7 +132,7 @@ mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <min
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <minecraft:grass>*1, 8, [<plants2:aakore>]);
 mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], <minecraft:grass>*1, 8, [<plants2:cosmetic_4:4>]);
 //Farbe Pink
-mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], , 8, []);
+//mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], , 8, []);
 
 //Farbstoffe Vermischen hinzufügen
 //mods.advancedmortars.Mortar.addRecipe(["wood", "stone", "iron", "diamond"], , 4, []);
