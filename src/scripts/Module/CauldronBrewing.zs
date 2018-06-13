@@ -1,6 +1,5 @@
 //Cauldron Brewing
 mods.jei.JEI.removeAndHide(<minecraft:brewing_stand>);
-mods.orestages.OreStages.addReplacement("entfernt", <minecraft:brewing_stand>, <minecraft:stone_slab>);
 
 
 //Entferne Nachtsichttränke
