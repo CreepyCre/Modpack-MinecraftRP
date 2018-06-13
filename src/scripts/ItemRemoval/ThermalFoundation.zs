@@ -306,4 +306,3 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:storage:7>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:135>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:199>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:ore:7>);
-mods.orestages.OreStages.addReplacement("entfernt", <thermalfoundation:ore:7>);
