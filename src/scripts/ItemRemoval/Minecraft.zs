@@ -1,10 +1,6 @@
 //Minecraft
 mods.jei.JEI.removeAndHide(<minecraft:fishing_rod>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_rail>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_sword>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_shovel>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_pickaxe>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_axe>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_sword>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_shovel>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_pickaxe>);
@@ -13,7 +9,6 @@ mods.jei.JEI.removeAndHide(<minecraft:golden_sword>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_shovel>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_pickaxe>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_axe>);
-mods.jei.JEI.removeAndHide(<minecraft:iron_hoe>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_hoe>);
 mods.jei.JEI.removeAndHide(<minecraft:golden_hoe>);
 mods.jei.JEI.removeAndHide(<minecraft:diamond_helmet>);
