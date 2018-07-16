@@ -1,7 +1,0 @@
-//Tausche Räder aus Astikoor mit Animania Rädern
-recipes.remove(<astikoor:plowcart>);
-recipes.remove(<astikoor:cargocart>);
-recipes.remove(<animania:wheel>);
-recipes.addShaped(<astikoor:plowcart>, [[<ore:fenceWood>, <ore:fenceWood>, <ore:fenceWood>],[<ore:plankWood>, <tconstruct:kama>.onlyWithTag({StatsOriginal: {AttackSpeedMultiplier: 1.0 as float, MiningSpeed: 6.0 as float, FreeModifiers: 3, Durability: 244, HarvestLevel: 2, Attack: 4.0 as float}, Stats: {AttackSpeedMultiplier: 1.0 as float, MiningSpeed: 6.0 as float, FreeModifiers: 3, Durability: 244, HarvestLevel: 2, Attack: 4.0 as float}, Special: {Categories: ["tool", "harvest", "aoe", "weapon"]}, TinkerData: {Materials: ["wood", "iron", "wood"], Modifiers: []}, Modifiers: [{identifier: "ecological", color: -7444965, level: 1}, {identifier: "magnetic", color: -3487030, level: 2, magnetic2: 1 as byte}], Traits: ["ecological", "magnetic2"]}), <ore:plankWood>], [<animania:wheel>, <ore:plankWood>, <animania:wheel>]]);
-recipes.addShaped(<astikoor:cargocart>, [[<ore:fenceWood>, <ore:chest>, <ore:fenceWood>],[<ore:fenceWood>, <ore:chest>, <ore:fenceWood>], [<animania:wheel>, <ore:plankWood>, <animania:wheel>]]);
-recipes.addShaped(<animania:wheel>, [[<minecraft:iron_nugget>, <ore:stickWood>, <minecraft:iron_nugget>],[<ore:stickWood>, <astikoor:wheel>, <ore:stickWood>], [<minecraft:iron_nugget>, <ore:stickWood>, <minecraft:iron_nugget>]]);
